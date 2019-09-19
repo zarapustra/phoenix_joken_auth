@@ -1,12 +1,12 @@
 # Phoenix Auth API
 
-JWT based authentication API on Elixir/Phoenix.
+JWT based authentication API on Elixir 1.8.1/Phoenix 1.4.9.
 
 ## Deps
 
-* Joken [github](https://github.com/joken-elixir/joken)
-* Bcrypt_elixir [github](https://github.com/riverrun/bcrypt_elixir)
-* Postgrex [github](https://github.com/elixir-ecto/postgrex)
+* Joken 2.1.0 [github](https://github.com/joken-elixir/joken)
+* Bcrypt_elixir 2.0.3 [github](https://github.com/riverrun/bcrypt_elixir)
+* Postgrex 0.15.0 [github](https://github.com/elixir-ecto/postgrex)
 
 To start your Phoenix server:
 
